@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LISP",
+            "request": "launch",
+            "mainClass": "LISP"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lisp",
+            "request": "launch",
+            "mainClass": "Lisp"
+        }
+    ]
+}
